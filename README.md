@@ -1,3 +1,4 @@
+# Chia sẻ plugin Devvn Woocommerce Price List Filter
 # woocommerce-price-list-filter
 Với Woocommerce Price List Filter – bộ lọc theo khoảng giá này bạn có thể thêm bất kỳ khoảng giá nào mà bạn muốn. Không giới hạn khảng giá. Tùy biến dễ dàng. Quản lý ngay tại widget. Nhanh – nhỏ – gọn – đơn giản
 
